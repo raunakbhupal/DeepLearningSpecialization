@@ -1,6 +1,8 @@
 # DeepLearningSpecialization
 
 This repo consists of the codes of the Deep Learning Specialization course which I took on Coursera
+There might be some files missing due to the large size of file
+Ps:Feel free to contact me in case you need help in understanding of the codes
 
 ## Course 1: Neural Networks and Deep Learning
 
